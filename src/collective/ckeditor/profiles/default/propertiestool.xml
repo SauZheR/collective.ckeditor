@@ -63,6 +63,7 @@
   </property>
   <property name="plugins" type="lines">
     <element value="ajaxsave;/++resource++cke_ajaxsave/plugin.js"/>
+    <element value="eqneditor;/++resource++ckeditor/plugins/eqneditor/plugin.js"/>
   </property>
   <property name="removePlugins" type="lines">
   </property>

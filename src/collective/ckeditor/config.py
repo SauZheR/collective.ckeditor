@@ -20,7 +20,7 @@ CKEDITOR_PLONE_DEFAULT_TOOLBAR = """[
     ['JustifyLeft','JustifyCenter','JustifyRight','JustifyBlock'],
     ['Link','Unlink','Anchor'],
     ['Image','Flash','Table','HorizontalRule','Smiley','SpecialChar',
-    'PageBreak'],
+    'PageBreak','EqnEditor'],
     ['Maximize', 'ShowBlocks','-','About']
 ]"""
 
@@ -42,7 +42,7 @@ CKEDITOR_FULL_TOOLBAR = """[
     ['JustifyLeft','JustifyCenter','JustifyRight','JustifyBlock','BidiLtr','BidiRtl'],
     ['Link','Unlink','Anchor'],
     ['Image','Flash','Table','HorizontalRule','Smiley','SpecialChar',
-    'PageBreak','Iframe'],
+    'PageBreak','Iframe','EqnEditor'],
     ['Maximize', 'ShowBlocks','-','About']
 ]"""
 
