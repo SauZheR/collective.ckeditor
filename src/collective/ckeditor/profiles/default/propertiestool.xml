@@ -16,7 +16,7 @@
     ['NumberedList','BulletedList','-','Outdent','Indent','Blockquote'],
     ['JustifyLeft','JustifyCenter','JustifyRight','JustifyBlock'],
     ['Link','Unlink','Anchor'],
-    ['Image','Flash','Table','HorizontalRule','Smiley','SpecialChar','PageBreak'],
+    ['Image','Flash','Table','HorizontalRule','Smiley','SpecialChar','PageBreak','EqnEditor'],
     '/',
     ['Styles','Format','Font','FontSize'],
     ['TextColor','BGColor'],
